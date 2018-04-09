@@ -3,6 +3,8 @@ package com.company.bean;
 import java.util.Date;
 
 public class User {
+
+    //这是一张注释
     private String username;
 
     private String password;
