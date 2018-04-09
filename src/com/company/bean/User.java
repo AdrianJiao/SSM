@@ -1,7 +1,7 @@
 package com.company.bean;
 
 import java.util.Date;
-
+// this is a test
 public class User {
     private String username;
 
