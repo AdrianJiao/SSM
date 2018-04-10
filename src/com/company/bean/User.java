@@ -1,7 +1,7 @@
 package com.company.bean;
 
 import java.util.Date;
-
+// this is a test one
 public class User {
 
     //这是一张注释
