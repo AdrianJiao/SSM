@@ -3,4 +3,5 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
   </component>
+  <!--添加一行注释，测试xml文件中更改一些东西-->
 </project>
