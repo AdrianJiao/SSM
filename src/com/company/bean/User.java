@@ -7,6 +7,8 @@ public class User {
     //这是一张注释
     private String username;
 
+
+//主要问题就是添加注释咯，玩得开心~~~
     private String password;
 
     private Integer age;

@@ -49,6 +49,7 @@ public class UserController {
        //上传位置
        File uploadPic = new File(realPath+File.separator+newFileName);
 
+       //这里是上传文件，啦啦啦
        //上传
        picture.transferTo(uploadPic);
        user.setHeadportrait(newFileName);
