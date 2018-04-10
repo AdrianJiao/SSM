@@ -11,6 +11,7 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  Hello，World.
+  This is your jsp page!
   </body>
 </html>
